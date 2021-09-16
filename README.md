@@ -1,9 +1,9 @@
 # Python Learning Roadmap
-#### * Python Basics [Variables, Data Types, Types Conversion, Comment, String, Booleans, List, Tuple, Set, Conditions, Dictonaries, Loop, Regex, Functions, Scope, Math, Dates, Try Catch, File, User Input, String Format etc.]
+#### * Python Basics [Variables, Data Types, Types Conversion, Comment, String, Booleans, List, Tuple, Set, Conditions, Dictionaries, Loop, Regex, Functions, Scope, Math, Dates, Try Catch, File, User Input, String Format, Python Library etc.]
 #### * Object Oriented Programming [Class, Object, Inheritance, List of Object]
 #### * For Web Development [Flask, Django] additional Knowledge of Html, Css and Js & Database is Required.
 #### * For Web Scraping [Beautiful Soup, Selenium]
-#### * For Data Analysis [Numpy, Sci Py, Pandas]
+#### * For Data Analysis [Numpy, SciPy, Pandas]
 #### * For Machine Learning & AI => Tensorflow
 
 # Useful Tools
@@ -16,3 +16,5 @@
 
 # For Advance Skill 
 #### * Learn Data Structure and Algorithm [If you know this you can even apply job in FANG[Facebook, Google, Microsoft, Apple] etc.]
+
+
